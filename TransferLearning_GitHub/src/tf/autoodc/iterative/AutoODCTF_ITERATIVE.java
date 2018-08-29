@@ -7,8 +7,6 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-import edu.stanford.nlp.tagger.maxent.MaxentTagger;
-
 public class AutoODCTF_ITERATIVE {
 
 	public static void main(String[] args) throws IOException, InterruptedException {
