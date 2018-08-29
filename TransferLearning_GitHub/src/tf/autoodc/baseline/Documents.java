@@ -9,10 +9,6 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-import com.opencsv.CSVReader;
-
-import edu.stanford.nlp.tagger.maxent.MaxentTagger;
-
 public class Documents {
 	
 	Stemmer stemmer = new Stemmer();

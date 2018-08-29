@@ -10,8 +10,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import edu.stanford.nlp.tagger.maxent.MaxentTagger;
-
 public class Instances {
 	Documents doc = new Documents();
 

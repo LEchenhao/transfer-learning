@@ -4,8 +4,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Map;
 
-import edu.stanford.nlp.tagger.maxent.MaxentTagger;
-
 public class AutoODCTF {
 
 	public static void main(String[] args) throws IOException {

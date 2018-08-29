@@ -17,8 +17,6 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
-import edu.stanford.nlp.tagger.maxent.MaxentTagger;
-
 public class Instances {
 	Documents doc = new Documents();
 	Map<String, Integer> predicted_labels = new LinkedHashMap<String, Integer>();
